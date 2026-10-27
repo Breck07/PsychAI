@@ -1,0 +1,2 @@
+# PyschAI
+Psychologist AI
